@@ -2,4 +2,4 @@
 ## About me
 ### — Python developer
 
-### — Arduino developer
+### — C developer
